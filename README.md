@@ -1,0 +1,2 @@
+# TheAirplayer
+基于AVPlayer的视频播放器，支持Airplay和DLNA投屏播放，支持iPhone和iPad转屏显示，支持画中画切换
